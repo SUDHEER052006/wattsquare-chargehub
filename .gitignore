@@ -1,0 +1,11 @@
+# local source material, not part of the published site
+clip/
+logo-from-clipboard.png
+
+# un-composited AI render; the page uses highway-hero.jpg
+assets/highway-a.png
+
+# OS cruft
+Thumbs.db
+desktop.ini
+.DS_Store
